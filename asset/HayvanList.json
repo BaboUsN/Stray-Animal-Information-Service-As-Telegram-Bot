@@ -1,0 +1,143 @@
+[
+    {
+        "tarih": "2021-12-10 18:28:57.194650",
+        "ismi": "fjfj",
+        "neredenGeldi": "jfjf",
+        "kimlikNum": "fkjf",
+        "irk": "nfjf",
+        "tur": "kfkf",
+        "renk": "kf",
+        "yas": "kfjf",
+        "kupeNo": "jf",
+        "cinsiyet": "kfjf",
+        "canaYakin": "kfkf",
+        "saglikProblem": "kf",
+        "karakter": "kfkf",
+        "kilo": "kfkf",
+        "operasyon": [
+            null
+        ],
+        "kisir": [
+            null
+        ],
+        "ihbarNo": 89,
+        "tasma": "kfkf",
+        "yasadigiBolge": "kfkf",
+        "ilgilenenKisi": "jfkf",
+        "ilgilenenTel": "kfkf",
+        "SahiplikDurumu": "jfjf"
+    },
+    {
+        "tarih": "2021-12-10 18:32:45.040387",
+        "kimlikNum": 42424,
+        "ismi": "fjjf",
+        "neredenGeldi": "fjjf",
+        "kampusHayvani": false,
+        "irk": "jfjf",
+        "tur": "jfjf",
+        "renk": "fjjf",
+        "yas": "jfjf",
+        "kupeNo": "jfjf",
+        "cinsiyet": false,
+        "canaYakin": "jfjf",
+        "saglikProblem": "jdjf",
+        "karakter": "jd",
+        "kilo": "djjd",
+        "operasyon": [
+            null
+        ],
+        "kisir": false,
+        "tasma": null,
+        "yasadigiBolge": "dj",
+        "ilgilenenKisi": "djd",
+        "ilgilenenTel": "djjd",
+        "SahiplikDurumu": "sahipli",
+        "sahibi": false,
+        "tedavisiDevam": false,
+        "GeciciYuva": []
+    },
+    {
+        "tarih": "2021-12-10 18:33:31.241486",
+        "ismi": "burak",
+        "neredenGeldi": "dkdk",
+        "kimlikNum": "fkkf",
+        "irk": "jfjf",
+        "tur": "kfjf",
+        "renk": "jfjf",
+        "yas": "kfkf",
+        "kupeNo": "kf",
+        "cinsiyet": "mdkf",
+        "canaYakin": "jfjf",
+        "saglikProblem": "kfkf",
+        "karakter": "kfkf",
+        "kilo": "kdkf",
+        "operasyon": [
+            null
+        ],
+        "kisir": [
+            null
+        ],
+        "ihbarNo": 95,
+        "tasma": "jfjf",
+        "yasadigiBolge": "kfkf",
+        "ilgilenenKisi": "kf",
+        "ilgilenenTel": "jf",
+        "SahiplikDurumu": "kdk"
+    },
+    {
+        "tarih": "2021-12-10 19:36:26.443943",
+        "ismi": "dkkd",
+        "neredenGeldi": "dkkd",
+        "kimlikNum": "kdkf",
+        "irk": "kfkf",
+        "tur": "kf",
+        "renk": "kf",
+        "yas": "kf",
+        "kupeNo": "gk",
+        "cinsiyet": "sj",
+        "canaYakin": "gl",
+        "saglikProblem": "dk",
+        "karakter": "gk",
+        "kilo": "dk",
+        "operasyon": [
+            null
+        ],
+        "kisir": [
+            null
+        ],
+        "ihbarNo": 105,
+        "tasma": "evet",
+        "yasadigiBolge": "fk",
+        "ilgilenenKisi": "gk",
+        "ilgilenenTel": "gk",
+        "SahiplikDurumu": "evet"
+    },
+    {
+        "tarih": "2021-12-10 19:53:45.037627",
+        "ismi": "djd",
+        "neredenGeldi": "dkkd",
+        "kimlikNum": "kdjd",
+        "irk": "dkdk",
+        "tur": "dkkd",
+        "renk": "kd",
+        "yas": "djdkdk",
+        "kupeNo": "dkkd",
+        "cinsiyet": "jd",
+        "canaYakin": "kd",
+        "saglikProblem": "jd",
+        "karakter": "jd",
+        "kilo": "kd",
+        "operasyon": [
+            null
+        ],
+        "kisir": [
+            null
+        ],
+        "ihbarNo": 107,
+        "tasma": true,
+        "yasadigiBolge": "evet",
+        "ilgilenenKisi": "dkdk",
+        "ilgilenenTel": "dkkd",
+        "SahiplikDurumu": false
+    }
+]

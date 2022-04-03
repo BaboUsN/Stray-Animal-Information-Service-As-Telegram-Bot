@@ -1,0 +1,24 @@
+{
+    "tarih": "2021-12-03 12:44:04.502851",
+    "ismi": "Private Info",
+    "telefon": "Private Info",
+    "adress": "kampus",
+    "tarihVeYer": "12.11.2021 bolu",
+    "konu": "kopek kisirlastirma",
+    "kupeNo": "1",
+    "alinisTarihi": "12.11.2021",
+    "tur": "sokak k\u00f6pe\u011fi",
+    "irk": "sokak k\u00f6pe\u011fi",
+    "yas": "2",
+    "renk": "kahverengi",
+    "cinsiyet": "erke",
+    "uygulama": [
+        "Kampus tedavi",
+        "Tedavi devam"
+    ],
+    "operasyon": [
+        "kisirlastirma"
+    ],
+    "kimlikNum": "I1",
+    "baglanti": "yok"
+}
