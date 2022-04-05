@@ -44,7 +44,7 @@ python main.py
 
 - With the command **⛏️sahiplikbeklemebitir** ➡️ you can end the animal's waiting for ownership.
 
-- You can show that the animal is adopted with the command **⛏️Sahiplikdurumutrue** ➡️
+- You can get the ownership status true the command **⛏️Sahiplikdurumutrue** ➡️
 
 - You can adopt the animal to a human with the command **⛏️sahiplendir** ➡️
 
@@ -52,4 +52,4 @@ python main.py
 
 - You can add a temporary home to the animal with the command **⛏️addgeciyuva** ➡️
 
-- You can report the animal with the command **⛏️İhbarbagla** ➡️
+- You can associate the report with the animal with the command **⛏️İhbarbagla** ➡️
